@@ -1,0 +1,3 @@
+int x = priya
+int y = magesh
+int z = vijay
